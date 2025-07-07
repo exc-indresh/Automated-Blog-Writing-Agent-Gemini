@@ -7,7 +7,7 @@ import google.generativeai as genai
 
 class BlogGenerator:
     def __init__(self):
-        api_key = 'AIzaSyAwg1zkdOhiqogdtYqu2OBEUKlJ0OTTeUY'
+        api_key = 'YOUR_GEMINI_API_KEY'
         if not api_key:
             return
         
