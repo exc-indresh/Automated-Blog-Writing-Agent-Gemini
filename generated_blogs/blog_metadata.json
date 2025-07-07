@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "The AI Revolution: Shaping Tomorrow, Today",
+      "prompt": "future of AI",
+      "filename": "20250707_111525_future-of-ai.md",
+      "filepath": "generated_blogs\\20250707_111525_future-of-ai.md",
+      "generated_date": "2025-07-07T11:15:25.996177",
+      "word_count": 907
+    },
+    {
+      "title": "Powering Tomorrow: The Bright Future of Renewable Energy",
+      "prompt": "future of renewal energy",
+      "filename": "20250707_111846_future-of-renewal-energy.md",
+      "filepath": "generated_blogs\\20250707_111846_future-of-renewal-energy.md",
+      "generated_date": "2025-07-07T11:18:46.777316",
+      "word_count": 942
+    },
+    {
+      "title": "Cracking the Code: Finding the Nth Fibonacci Number in C++",
+      "prompt": "write code to find nth fibbonacci number in c++",
+      "filename": "20250707_112529_write-code-to-find-nth-fibbonacci-number-in-c.md",
+      "filepath": "generated_blogs\\20250707_112529_write-code-to-find-nth-fibbonacci-number-in-c.md",
+      "generated_date": "2025-07-07T11:25:29.829390",
+      "word_count": 1107
+    }
+  ]
+}
